@@ -1,5 +1,5 @@
-# CarsVideo
-# 1.1
+# 1.CarsVideo
+# 1.1developVideoApp 
 ![VideoMain2](https://github.com/jienian/CarsVideo/assets/45189482/6d2b6e81-cd09-4d8d-b739-2f206908c7f8)
 ![VideoMain3](https://github.com/jienian/CarsVideo/assets/45189482/3491e9db-ceaa-4af6-b537-926ff2130e1c)
 ![VideoMain4](https://github.com/jienian/CarsVideo/assets/45189482/69bee4d3-45b5-4d8b-beea-8f557831f200)
@@ -10,7 +10,7 @@
 ![VideoMain6](https://github.com/jienian/CarsVideo/assets/45189482/a9a344ed-92ef-4752-82cf-40e65aa79f2b)
 
 
-# 1.2 Code
+# 1.2 Code 16:9、4:3、全屏的代码逻辑
 ![VideoMainCode](https://github.com/jienian/CarsVideo/assets/45189482/418abc91-2f2f-44c1-b18e-e98d0498615c)
 ![VideoMainCode2](https://github.com/jienian/CarsVideo/assets/45189482/c58870e3-0306-451b-b240-3f4107c5abe1)
 ![VideoMainCode3](https://github.com/jienian/CarsVideo/assets/45189482/2f2034ac-36dc-4fb8-8831-8804753d7845)
